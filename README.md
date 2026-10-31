@@ -68,7 +68,7 @@
 
 ### 方式一：直接用打包好的 exe（推荐）
 
-从本仓库的 **Releases** 页面下载 `波吉快传.exe`，双击运行即可，**不需要安装 Python**。
+从 [**Releases**](https://github.com/jaychoucc/boji-kuaichuan/releases) 页面下载 `波吉快传.exe`，双击运行即可，**不需要安装 Python**。
 
 ### 方式二：从源码运行
 
